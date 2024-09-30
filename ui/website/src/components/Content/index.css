@@ -438,7 +438,7 @@
 
 @media (min-width: 1060px) {
   .main {
-    padding-top: 80px;
+    padding-top: 20px;
   }
   .github-link-box {
     right: 12px;
@@ -604,8 +604,8 @@
   height: 100%;
 }
 .cards {
-  padding-top: 10px;
-  padding-bottom: 250px;
+  padding-top: 20px;
+  padding-bottom: 50px;
 }
 .record-wraper {
   text-align: center;
