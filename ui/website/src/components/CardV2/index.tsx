@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import "./index.css";
 import { getLogoUrl } from "../../utils/check";
 import { getJumpTarget } from "../../utils/setting";
-const Card = ({ title, url, des, logo, catelog, onClick, index, isSearching }) => {
+const Card = ({ title, url, des, logo, onClick, index, isSearching }) => {
   const el = useMemo(() => {
     if (url === "admin") {
       return <img src={logo} alt={title} />
@@ -38,7 +38,6 @@ const Card = ({ title, url, des, logo, catelog, onClick, index, isSearching }) =
         <div className="card-right">
           <div className="card-right-top">
             <span className="card-right-title" title={title}>{title}</span>
-            <span className="card-tag" title={catelog}>{catelog}</span>
           </div>
           <div className="card-right-bottom" title={des}>{des}</div>
         </div>
