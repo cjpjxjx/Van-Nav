@@ -1,4 +1,4 @@
-# Van Nav
+### Van Nav
 
 自用轻量导航，汇总所有服务
 
@@ -10,4 +10,6 @@
 - 移除不完美的标签选择
 - 删除不再需要的依赖
 
-forked from [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav)
+Forked from [Mereithhh/van-nav⁠](https://github.com/Mereithhh/van-nav)
+
+Github [https://github.com/cjpjxjx/van-nav⁠](https://github.com/cjpjxjx/van-nav)
