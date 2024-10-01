@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: cjpjxjx/Van-Nav:latest
+    image: cjpjxjx/van-nav:latest
     container_name: van-nav
     restart: unless-stopped
     ports:
